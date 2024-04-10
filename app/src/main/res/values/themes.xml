@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for Android 4.X -->
+    <style name="Theme.TextViewer" parent="android:Theme.Holo">
+    </style>
+    <style name="Theme.TextViewer.Black" parent="android:Theme.Holo">
+        <item name="android:windowBackground">@color/background_black</item>
+    </style>
+    <style name="Theme.TextViewer.Light" parent="android:Theme.Holo.Light.DarkActionBar">
+    </style>
+</resources>

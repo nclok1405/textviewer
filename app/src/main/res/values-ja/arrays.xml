@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pref_textviewer_size_entries">
+        <item>とても小さい</item>
+        <item>小さい</item>
+        <item>普通</item>
+        <item>大きい</item>
+        <item>とても大きい</item>
+    </string-array>
+    <string-array name="array_pref_textviewer_size_values">
+        <item>12</item>
+        <item>14</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+    </string-array>
+    <string-array name="array_pref_textviewer_theme_entries">
+        <item>ダーク</item>
+        <item>ブラック</item>
+        <item>ライト</item>
+    </string-array>
+    <string-array name="array_pref_textviewer_theme_values">
+        <item>dark</item>
+        <item>black</item>
+        <item>light</item>
+    </string-array>
+</resources>

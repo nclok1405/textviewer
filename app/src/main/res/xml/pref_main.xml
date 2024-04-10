@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:key="pref_textviewer" android:title="@string/pref_textviewer">
+        <ListPreference
+            android:entries="@array/array_pref_textviewer_theme_entries"
+            android:entryValues="@array/array_pref_textviewer_theme_values"
+            android:key="pref_textviewer_theme"
+            android:title="@string/pref_textviewer_theme"
+            android:summary="%s" />
+        <ListPreference
+            android:entries="@array/array_pref_textviewer_size_entries"
+            android:entryValues="@array/array_pref_textviewer_size_values"
+            android:key="pref_textviewer_font_size"
+            android:title="@string/pref_textviewer_font_size"
+            android:summary="%s" />
+        <CheckBoxPreference
+            android:key="pref_textviewer_hide_toolbar_when_scrolling"
+            android:title="@string/pref_textviewer_hide_toolbar_when_scrolling"
+            android:defaultValue="true" />
+        <CheckBoxPreference
+            android:key="pref_textviewer_allow_selection_and_copy"
+            android:title="@string/pref_textviewer_allow_selection_and_copy"
+            android:defaultValue="false" />
+        <CheckBoxPreference
+            android:key="pref_textviewer_auto_load_last_file_on_launch"
+            android:title="@string/pref_textviewer_auto_load_last_file_on_launch"
+            android:summary="@string/pref_textviewer_auto_load_last_file_on_launch_desc"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_about">
+        <Preference android:title="@string/app_name" android:key="about_version" android:summary="@string/pref_about_version" />
+        <Preference android:title="@string/pref_license" android:key="about_license" android:summary="@string/pref_license_mit" />
+    </PreferenceCategory>
+</PreferenceScreen>

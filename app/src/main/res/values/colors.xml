@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#202020</color>
+    <color name="primary">#FF202020</color>
+    <color name="primary_dark">#FF202020</color>
+    <color name="accent">#FF0D8FAC</color>
+    <color name="background_black">#FF000000</color>
+    <color name="background_white">#FFFFFFFF</color>
+    <color name="navigation_bar_dark">#FF000000</color>
+    <color name="navigation_bar_light">#FFFFFFFF</color>
+</resources>

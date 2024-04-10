@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Text Viewer</string>
+    <string name="textviewer_action_open">Open</string>
+    <string name="textviewer_action_settings">Settings</string>
+    <string name="textviewer_action_share">Share</string>
+    <string name="textviewer_action_view">View in Other App</string>
+    <string name="textviewer_action_edit">Edit in Other App</string>
+    <string name="textviewer_action_scroll_to_top">Scroll to Top</string>
+    <string name="textviewer_action_scroll_to_bottom">Scroll to Bottom</string>
+    <string name="textviewer_action_close">Close</string>
+    <string name="textviewer_error_load_failed">Could not load the text file</string>
+    <string name="textviewer_error_nowhere_to_share">There are no apps that can receive text data</string>
+    <string name="textviewer_error_no_viewer">There are no text viewers installed</string>
+    <string name="textviewer_error_no_editor">There are no text editors installed</string>
+    <string name="pref_textviewer">Text Viewer</string>
+    <string name="pref_textviewer_font_size">Font Size</string>
+    <string name="pref_textviewer_hide_toolbar_when_scrolling">Hide Toolbar when Scrolling</string>
+    <string name="pref_textviewer_theme">Theme</string>
+    <string name="pref_textviewer_allow_selection_and_copy">Allow text selection and copy</string>
+    <string name="pref_textviewer_auto_load_last_file_on_launch">Auto-load Last File</string>
+    <string name="pref_textviewer_auto_load_last_file_on_launch_desc">Automatically load the last-viewed file on launch</string>
+    <string name="pref_about">About This Application</string>
+    <string name="pref_about_version">Version %1$s\n©2024 nclok1405\nTap here to bring App Settings screen</string>
+    <string name="pref_license">License</string>
+    <string name="pref_license_mit">MIT</string>
+</resources>

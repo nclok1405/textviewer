@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">テキストビューア</string>
+    <string name="textviewer_action_open">開く</string>
+    <string name="textviewer_action_settings">設定</string>
+    <string name="textviewer_action_share">共有</string>
+    <string name="textviewer_action_view">別アプリで表示</string>
+    <string name="textviewer_action_edit">別アプリで編集</string>
+    <string name="textviewer_action_scroll_to_top">最上部にスクロール</string>
+    <string name="textviewer_action_scroll_to_bottom">最下部にスクロール</string>
+    <string name="textviewer_action_close">閉じる</string>
+    <string name="textviewer_error_load_failed">ファイルを読み込めません</string>
+    <string name="textviewer_error_nowhere_to_share">テキストデータを読み込めるアプリがありません</string>
+    <string name="textviewer_error_no_viewer">テキストビューアが本アプリ以外インストールされていません</string>
+    <string name="textviewer_error_no_editor">テキストエディタがインストールされていません</string>
+    <string name="pref_textviewer">テキストビューア</string>
+    <string name="pref_textviewer_font_size">フォントの大きさ</string>
+    <string name="pref_textviewer_hide_toolbar_when_scrolling">スクロール中はツールバーを隠す</string>
+    <string name="pref_textviewer_theme">テーマ</string>
+    <string name="pref_textviewer_allow_selection_and_copy">テキスト選択とコピーを有効化</string>
+    <string name="pref_textviewer_auto_load_last_file_on_launch">最新ファイル自動読み込み</string>
+    <string name="pref_textviewer_auto_load_last_file_on_launch_desc">起動時に自動で最後に見たファイルを開く</string>
+    <string name="pref_about">このアプリケーションについて</string>
+    <string name="pref_about_version">バージョン %1$s\n©2024 nclok1405\nここを押すとアプリ設定画面へ行きます</string>
+    <string name="pref_license">ライセンス</string>
+    <string name="pref_license_mit">MIT</string>
+</resources>

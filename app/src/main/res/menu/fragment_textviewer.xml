@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/textviewer_action_open"
+        android:title="@string/textviewer_action_open"
+        android:icon="@drawable/ic_action_open"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/textviewer_action_settings"
+        android:title="@string/textviewer_action_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/textviewer_action_share"
+        android:title="@string/textviewer_action_share"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/textviewer_action_view"
+        android:title="@string/textviewer_action_view"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/textviewer_action_edit"
+        android:title="@string/textviewer_action_edit"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/textviewer_action_scroll_to_top"
+        android:title="@string/textviewer_action_scroll_to_top"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/textviewer_action_scroll_to_bottom"
+        android:title="@string/textviewer_action_scroll_to_bottom"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/textviewer_action_close"
+        android:title="@string/textviewer_action_close"
+        android:showAsAction="never" />
+</menu>
